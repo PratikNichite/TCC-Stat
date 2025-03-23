@@ -14,8 +14,3 @@ Each row in the dataset represents a unique telecom customer. The columns contai
 ## Purpose
 
 The main objective of this case study is to analyze the factors influencing customer churn and build predictive models to forecast future churn behavior.
-
-## Getting Started
-
-To run the analysis, make sure you have the necessary dependencies installed. You can install them using:
-
